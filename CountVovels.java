@@ -1,3 +1,5 @@
+/*System.out.println("Commited in dev branch 1")
+System.out.println("Commited in dev branch 2")*/
 public class CountVovels {
     public static void main(String[] args) {
         String[] arr = new String[]{"Minskaaaaaas", "Akapulkooo", "Warsawa"};
@@ -30,8 +32,7 @@ public class CountVovels {
         }
         return vowelCount;
     }
-System.out.println("Commited in dev branch 1")
-System.out.println("Commited in dev branch 2")
+
 }
 //First change
 //Second Local Change
